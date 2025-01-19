@@ -28,3 +28,18 @@ Created Micro-Frontend application using React.
 ## Demo
 
 - Here is the demo video https://www.loom.com/share/80f914a2fd4a4fe9ae9aac3a71d3f0ec?sid=98f41944-8268-40a8-acef-afc161c9b7ca
+
+## Screenshots
+
+- Cotainer app 
+![Screenshot 2025-01-19 211004](https://github.com/user-attachments/assets/16d25dfe-0b46-4b1d-b987-47f5e65e8b5c)
+
+- app1 : Dashboard
+![image](https://github.com/user-attachments/assets/b6e74d08-6f0b-4b93-bb70-a7606928cf11)
+
+- app1 : List page
+![image](https://github.com/user-attachments/assets/d7deeb54-d152-4d0f-a5cb-fc606279bfe8)
+
+
+- app2 : Dashboard
+![image](https://github.com/user-attachments/assets/feb2077b-d243-4025-9044-aa191963b11f)
